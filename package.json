@@ -1,0 +1,23 @@
+{
+  "name": "entry-wrap-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Wrap entry points with any code",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "wrap",
+    "bundle",
+    "entry",
+    "amd",
+    "require"
+  ],
+  "scripts": {
+    "test": "webpack && node test.js"
+  },
+  "author": "Shane Osbourne",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "1.12.14"
+  }
+}
