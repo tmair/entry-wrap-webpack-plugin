@@ -1,4 +1,4 @@
-## EntryWrap webpack plugin
+## EntryWrap webpack plugin [![Build Status](https://travis-ci.org/shakyShane/entry-wrap-webpack-plugin.svg?branch=master)](https://travis-ci.org/shakyShane/entry-wrap-webpack-plugin)
 
 > Wrap your bundle entry points
 
