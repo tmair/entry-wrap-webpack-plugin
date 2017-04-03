@@ -13,11 +13,12 @@
     "require"
   ],
   "scripts": {
-    "test": "webpack && node test.js"
+    "pretest": "webpack --config test/webpack.config.js",
+    "test": "node test/test.js"
   },
   "author": "Shane Osbourne",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "1.12.14"
+    "webpack": "^2.3.3"
   }
 }
